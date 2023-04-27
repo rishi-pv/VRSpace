@@ -1,9 +1,8 @@
 {
-  "name": "mern-vrgame",
-  "version": "2.0.0",
+  "name": "vrspace",
+  "version": "1.0.0",
   "description": "A MERN stack based VR game for the web",
-  "author": "Shama Hoque",
-  "license": "MIT",
+  "author": "RishiPV",
   "keywords": [
     "react",
     "express",
@@ -13,9 +12,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shamahoque/mern-vrgame.git"
+    "url": "https://github.com/rishi-pv/VRSpace.git"
   },
-  "homepage": "https://github.com/shamahoque/mern-vrgame",
+  "homepage": "https://github.com/rishi-pv/VRSpace",
   "main": "./dist/server.generated.js",
   "scripts": {
     "development": "export NODE_OPTIONS=--openssl-legacy-provider && nodemon",
